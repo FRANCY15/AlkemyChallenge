@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <footer>
+    <footer className='footer'>
       <nav className="navbar navbar-dark bg-dark">
         <div className="container-fluid">
         <p> Copyright Alkemy Challenge </p>
